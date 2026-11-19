@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-checklist.jpg","note":"Checklist with progress, filters, and the missable trophy's guide open beside it","path":"/?trophy=28","viewport":{"height":800,"width":1280}},{"file":"2-guide.jpg","note":"A silver trophy's guide with its steps, roadmap stage and sources","path":"/?trophy=17","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","note":"The six-stage roadmap to the platinum with per-stage progress","path":"/?view=roadmap&trophy=28","viewport":{"height":800,"width":1280}},{"file":"4-spoiler.jpg","note":"Spoiler shield on: unearned hidden trophies stay hidden, earned ones reveal","path":"/?spoiler=1&trophy=3","viewport":{"height":800,"width":1280}}]
